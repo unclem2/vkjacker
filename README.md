@@ -3,7 +3,7 @@
 Заходим в play market
 Пишем в поиске Termux
 Качаем Termux
-Ждем при первом запуске и пишем команды:
+Ждем при первом запуске и пишем команды:       
 apt upgrade   
 apt update     
 apt install git     
